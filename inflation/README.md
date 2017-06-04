@@ -4,5 +4,8 @@
 
     http://www2.bot.or.th/statistics/BOTWEBSTAT.aspx?reportID=409&language=TH
 
-## Structure
+## Files
+```
+EC_EI_027.csv   Exported Stats from the site, unprocessed
+```
 
